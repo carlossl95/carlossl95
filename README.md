@@ -1,5 +1,8 @@
 ## Olá! Eu sou Carlos Júnior 🖐️
+<div>
+   ![carlossl95 GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossl95&show_icons=true&theme=radical)
 
+</div>
 
 <div style="display: inline_block"><br>
   <img align="center" alt="c#" height="30" width="60" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
