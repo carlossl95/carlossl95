@@ -3,8 +3,8 @@ br
 
 <div align="center">
   <a href="https://github.com/carlossl95">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=carlossl95&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossl95&layout=compact&langs_count=7&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlossl95&show_icons=true&theme=radical"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossl95&layout=compact&langs_count=7&theme=radical"/>
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="c#" height="30" width="60" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
