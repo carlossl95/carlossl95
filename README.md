@@ -1,6 +1,6 @@
 ## Olá! Eu sou Carlos Júnior 🖐️
 
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossl95&show_icons=true&theme=radical)
+  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossl95&show_icons=true&theme=dark)
 
 
 
