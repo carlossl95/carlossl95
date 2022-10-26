@@ -4,7 +4,7 @@ br
 <div align="center">
   <a href="https://github.com/carlossl95">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=carlossl95&show_icons=true&theme=radical"/>
-  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carlossl95&layout=compact&langs_count=7&theme=radical"/>
+  [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=carlossl95)](https://github.com/anuraghazra/github-readme-stats)
 </div>
 <div style="display: inline_block"><br>
   <img align="center" alt="c#" height="30" width="60" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
