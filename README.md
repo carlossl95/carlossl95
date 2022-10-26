@@ -1,6 +1,6 @@
 ## Olá! Eu sou Carlos Júnior 🖐️
 <div>
-   ![carlossl95 GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossl95&show_icons=true&theme=radical)
+   [![carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossl95)](https://github.com/carlossl95/github-readme-stats)
 
 </div>
 
