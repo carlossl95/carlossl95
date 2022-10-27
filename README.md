@@ -22,12 +22,13 @@
   ### Skills:
   <br>
   
-  <img align="center" alt="c#" height="30" width="60" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white">
-  <img align="center" alt="html" height="30" width="60" src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
-  <img align="center" alt="css" height="30" width="60" src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-  <img align="center" alt="nodes" height="30" width="70" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white">
-  <img align="center" alt="anglar" height="30" width="75" src="https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white">
-  <img align="center" alt="sql" height="30" width="70" src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white">
+  <img align="center" alt="c#" height="40" width="40" src="https://github.com/carlossl95/carlossl95/blob/main/c%23.svg">
+  <img align="center" alt="html" height="40" width="40" src="https://github.com/carlossl95/carlossl95/blob/main/html.svg">
+  <img align="center" alt="css" height="40" width="40" src="https://github.com/carlossl95/carlossl95/blob/main/css.svg">
+  <img align="center" alt="js" height="40" width="40" src="https://github.com/carlossl95/carlossl95/blob/main/js.svg">
+  <img align="center" alt="ts" height="40" width="40" src="https://github.com/carlossl95/carlossl95/blob/main/ts.svg">
+  <img align="center" alt="angular" height="40" width="40" src="https://github.com/carlossl95/carlossl95/blob/main/angular.svg">  
+ 
   <br>
   
 </div>
@@ -38,11 +39,12 @@
   
   ### Contact:
   <br>
+  <a href="https://www.linkedin.com/in/carlosdesouzalimajunior/"><img height="30" src="https://github.com/carlossl95/carlossl95/blob/main/linkedin.svg"></a>
+  <a href="mailto:carlossl95@icloud.com"><img height="40" src="https://github.com/carlossl95/carlossl95/blob/main/email.svg"></a>
+  <a href="https://wa.me/5549998057197"><img height="48" src="https://github.com/carlossl95/carlossl95/blob/main/whatsapp-3.svg" ></a>
+  <a href="https://www.instagram.com/carlosslj_/"><img height="38" src="https://github.com/carlossl95/carlossl95/blob/main/instagram-5.svg" ></a>
+   
   
-  <a href="https://www.instagram.com/carlosslj_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank">
-  </a>
-  <a href = "mailto:carlossl95@icloud.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/carlosdesouzalimajunior/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 </div>
 
 ##
