@@ -1,8 +1,11 @@
 ## Olá! Eu sou Carlos Júnior 🖐️
 
+  <div just>
+  
   ![carlos GitHub stats](https://github-readme-stats.vercel.app/api?username=carlossl95&show_icons=true&theme=dark)
-  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlossl95&layout=compact&theme=dar)
-
+  ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlossl95&layout=compact&theme=dark)
+  
+  </div>
 
 
 
